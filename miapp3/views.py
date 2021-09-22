@@ -4,3 +4,6 @@ from django.shortcuts import render
 
 def mi_vista_principal():
     return "Hola mundo"
+
+def mi_vista_segundaria():
+    return "Hola Ecuador"
